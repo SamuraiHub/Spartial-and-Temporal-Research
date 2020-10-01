@@ -1,0 +1,1 @@
+﻿------ Build started: Project: Spatial and Temporal Research, Configuration: Release x86 ------

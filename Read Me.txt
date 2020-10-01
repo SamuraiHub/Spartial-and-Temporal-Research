@@ -1,0 +1,6 @@
+To run the program do the following:
+1. Install Navisworks 2013 
+2. Run Navisworks, Open the navisworks file, click on the output tab and under Export Data Click on Timeliner CSV.
+3. Make sure that the Timliner csv is in the same folder with same name as the navisworks file (not including extension) else, you'll be asked to locate the timeliner csv file when you open the  nwf in the  program.
+4. You can now launch the program.  Simply click on exe file either  in the debug or release folders inside the bin folder.
+Good Luck!
